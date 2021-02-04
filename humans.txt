@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sergio fdez		sfernandezm90@hotmail.com		@tardio90
 
 # THANKS
 
