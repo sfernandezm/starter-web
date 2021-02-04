@@ -21,4 +21,4 @@ asdfasdf
 
 ### Copyright
 
-2021 Sergio Fernandez
+2021 Sergio Fernandez. Todos los derechos reservados
